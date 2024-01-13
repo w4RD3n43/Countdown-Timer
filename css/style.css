@@ -45,7 +45,6 @@ input{
   border-radius: 10px;
   transition: border 0.5s;
   cursor: pointer;
-  color: white;
   text-align: center;
   font-size: 25px;
 }
